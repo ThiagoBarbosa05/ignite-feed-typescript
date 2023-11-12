@@ -4,10 +4,10 @@
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🔗 React</a>
 </h1>
-<p align="center">🚀 Project made by the Reactjs fundamentals course via Rocketseat's Ignite track</p>
+<p align="center">🚀Project using the React.js module, using React's Context api and the Single Page Application (SPA) concept from Rocketseat's Ignite track.</p>
 
 <h1 align="center">
-  <img alt="banner ignite feed" title="#Ignite Feed" src="./src/assets/cover.png" />
+  <img alt="banner ignite timer" title="#Ignite timer" src="./src/assets/cover.png" />
 </h1>
 
 ### 🛠 Technologies
