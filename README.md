@@ -7,6 +7,6 @@
 <p align="center">🚀 Project made by the Reactjs fundamentals course via Rocketseat's Ignite track</p>
 
 <h1 align="center">
-  <img alt="banner ignite feed" title="#Ignite Feed" src="./src/assets/cover.png />
+  <img alt="banner ignite feed" title="#Ignite Feed" src="./src/assets/cover.png" />
 </h1>
 
